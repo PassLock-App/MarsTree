@@ -9,4 +9,4 @@
  2️⃣MarsTree provides effective support for code obfuscation, string encryption, and modification of code logic trees for Unity SDK projects.  
  
  
- ### ☯️☯️☯️    The project has been extensively tested and authentically arraigned and is constantly being improved!   ☯️☯️☯️
+ ### Too busy with work, this program is no longer maintained!
